@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-        TookAnalytics.Event("asdasd", "497FaF0112932", this);
+        TookAnalytics.Event("Test", "497FaF0112932", this);
 
 
     }
