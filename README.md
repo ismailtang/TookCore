@@ -1,11 +1,9 @@
 # TookCore
 
-<h2>Example of code</h2>
-
-
-
-<pre style="background-color: #000 !important;">
-
-                //Your content
-
-</pre>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
